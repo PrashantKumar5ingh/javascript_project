@@ -5,7 +5,13 @@ console.log("Hello world")
 // console.log(x);
 
 // var multiple assigning
+// var x = 10;
+// console.log(x);
+// x = "Prashant";
+// console.log(x);
+
+// var multiple definition
 var x = 10;
 console.log(x);
-x = "Prashant";
+var x = "Manoj";
 console.log(x);
